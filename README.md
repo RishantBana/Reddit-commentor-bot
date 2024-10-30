@@ -69,6 +69,12 @@ python reddit_comment_bot.py
 
 ---
 
+## 📤 Terminal Output on Success
+
+When the script runs successfully, you’ll see a terminal output like this:
+![Terminal Output](images/terminal.png)
+
+
 ## 📂 Code Structure
 
 - **`reddit_comment_bot.py`**: The main bot script that handles login, comment searching, and replying.
