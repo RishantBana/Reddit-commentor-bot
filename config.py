@@ -1,4 +1,4 @@
-username = "Mountain_Category889"
-password = "Vrbros29b@"
-client_id = "dqw2z-5sqPNrPNVKwEyXRQ"
-client_secret = "o1o-S12eDZpgR8xVrD2D25yBUtoDtw"
+username = "Ypur Username"
+password = "Ypur Password"
+client_id = "Your client ID"
+client_secret = "Your client secret"
