@@ -69,7 +69,7 @@ def run_bot(reddit_instance, replied_comments):
     time.sleep(SLEEP_TIME)
 
 def main():
-    """Main function to execute the bot logic."""
+
     reddit_instance = bot_login()
     replied_comments = fetch_replied_comments("comments_replied_to.txt")
     print(replied_comments)
